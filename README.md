@@ -1,4 +1,4 @@
-# kece-client-examples
+# kece client examples
 
 https://github.com/Bhinneka/kece
 
